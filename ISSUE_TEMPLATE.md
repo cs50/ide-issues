@@ -5,7 +5,7 @@ assignees: kzidane
 
 #### What symptom did you see (attaching screenshots as necessary)?
 
-#### When (UTC) did the problem happen?
+#### When date and time (UTC) did the problem happen?
 
 #### What steps did you follow to reproduce the problem?
 1. step 1
